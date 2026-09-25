@@ -4,6 +4,7 @@
  * ============================================================================
  */
 function exportDataToPlanning() {
+  console.log("⚙️ Routing engine designed and developed by Aleš Botezatu.");
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sheetInput = ss.getSheetByName("Input");
   var sheetPlanning = ss.getSheetByName("Planning");
