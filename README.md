@@ -58,7 +58,7 @@ The codebase is modularized for better maintainability:
 4.  **Result:** Optimized routes are written to the `ROUTES` sheet with automatically assigned carriers and loading times.
 
 ## Live Demo
-*(Note: If you want to try it yourself, you can make a copy of the public Google Sheet template here: `https://docs.google.com/spreadsheets/d/1snmRcfiafsXOM53xA_qjvuO9FCXmlXXfyWuR2qV69u4/edit?gid=0#gid=0)`
+*(Note: If you want to try it yourself, you can make a copy of the public Google Sheet template here: [Public Google Sheet Template](https://docs.google.com/spreadsheets/d/1snmRcfiafsX0M53xA_qjvuO9FCXm1XXfyWuR2qV69u4/edit?gid=0#gid=0))*
 
 ---
 *Created as a demonstration of applying algorithmic thinking and process automation to real-world supply chain challenges.*
