@@ -5,6 +5,7 @@
  * ============================================================================
  */
 function generateOptimizedRoutes() {
+  console.log("⚙️ Routing engine designed and developed by Aleš Botezatu.");
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sheetPlanning = ss.getSheetByName("Planning");
   var sheetRoutes = ss.getSheetByName("ROUTES");
