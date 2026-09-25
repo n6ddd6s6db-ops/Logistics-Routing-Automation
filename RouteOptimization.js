@@ -3,6 +3,7 @@
  * AUTOMATED ROUTE OPTIMIZATION 
  * (FTL checks, Best-Fit Algorithm, Map distances, Constraints & Constraints)
  * ============================================================================
+ * @author Aleš Botezatu
  */
 function generateOptimizedRoutes() {
   console.log("⚙️ Routing engine designed and developed by Aleš Botezatu.");
