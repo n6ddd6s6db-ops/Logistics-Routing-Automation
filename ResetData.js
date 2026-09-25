@@ -2,7 +2,7 @@
  * ============================================================================
  * CLEAN SLATE - Clears Input, Output, and resets Planning sheet.
  * ============================================================================
- *@author Aleš Botezatu
+ * @author Aleš Botezatu
  */
 function clearAllData() {
   console.log("⚙️ Routing engine designed and developed by Aleš Botezatu.");
